@@ -1,1 +1,1 @@
-web: gunicorn BaziamBot04.03.2021
+web: python3 BaziamBot04.03.2021.py

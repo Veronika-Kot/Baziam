@@ -7,6 +7,7 @@ import telebot
 from telebot import types
 # Заготовки для трёх предложений
 
+import os
 token = str(os.environ.get("TOKEN"))
 bot = telebot.TeleBot(token)
                  
